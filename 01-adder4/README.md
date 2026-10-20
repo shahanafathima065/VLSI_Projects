@@ -16,17 +16,13 @@ This project adds two 4-bit numbers and a carry-in. It gives a
 The testbench tries all 512 input combinations (16 x 16 x 2) and
 compares each result with the correct answer. It prints
 "ALL TESTS PASSED".
-
-![Passing simulation](<img width="1920" height="1080" alt="tcl_waveform_pass" src="https://github.com/user-attachments/assets/3e8b1868-77eb-43ce-9f8e-ff3ed36b7ddc" />
-)
-
+![Passing simulation](https://github.com/user-attachments/assets/3e8b1868-77eb-43ce-9f8e-ff3ed36b7ddc)
 ## Testing the testbench
 I put a bug in the design on purpose (XOR changed to OR). The
 testbench reported 390 failed tests out of 512, so the testbench
 can catch mistakes.
 
-![Simulation with the deliberate bug](<img width="1920" height="1080" alt="bug_test" src="https://github.com/user-attachments/assets/3e0f64f4-f40c-464a-82b4-8c9b2e2cc673" />
-)
+![Simulation with the deliberate bug](https://github.com/user-attachments/assets/3e0f64f4-f40c-464a-82b4-8c9b2e2cc673")
 
 ## Tools
 Verilog, Xilinx Vivado 2023.2 (behavioral simulation)
