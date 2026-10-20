@@ -22,7 +22,7 @@ I put a bug in the design on purpose (XOR changed to OR). The
 testbench reported 390 failed tests out of 512, so the testbench
 can catch mistakes.
 
-![Simulation with the deliberate bug](https://github.com/user-attachments/assets/3e0f64f4-f40c-464a-82b4-8c9b2e2cc673")
+![Simulation with the deliberate bug](https://github.com/user-attachments/assets/3e0f64f4-f40c-464a-82b4-8c9b2e2cc673)
 
 ## Tools
 Verilog, Xilinx Vivado 2023.2 (behavioral simulation)
