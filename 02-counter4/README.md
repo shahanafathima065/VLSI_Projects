@@ -24,7 +24,7 @@ value. It tests:
 
 It printed "ALL TESTS PASSED".
 
-![Passing simulation](https://github.com/user-attachments/assets/8b5fa4bb-1380-432d-87cd-dcfb97f75551>)
+![Passing simulation](https://github.com/user-attachments/assets/8b5fa4bb-1380-432d-87cd-dcfb97f75551)
 
 ## Tools
 Verilog, Xilinx Vivado 2023.2 (behavioral simulation)
